@@ -1,3 +1,1 @@
-# commclassroomOP
-
-Kunal Kushwaha learing github amazing..
+Hi Kunal,Thank you for Github tutorial and DSA bootcamp. it really helped me lot especially for students from rural areas like me who has no prior knowledge on placements and DSA can easily able to understand from your lectures.Hope you continue this forever.😊 
